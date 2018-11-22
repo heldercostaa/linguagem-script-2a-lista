@@ -1,6 +1,6 @@
 # Lista 02
 > Helder Costa  
-> Linguagens de Programação Script  
+> Linguagem de Programação Script  
 > Universidade Federal do Ceará - UFC  
 > Docentes: [Wellingtion Wager](https://www.researchgate.net/profile/Wellington_Wagner_Ferreira_Sarmento) e [Ricardo Brauner](https://www.escavador.com/sobre/7557355/ricardo-brauner-dos-santos)
 
