@@ -1,0 +1,2 @@
+produto1,Sim,Distribuidor B
+produto2,Não,Distribuidor A
