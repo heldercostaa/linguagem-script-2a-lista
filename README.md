@@ -11,7 +11,7 @@ O tipo de protótipo utilizado foi um **protótipo de baixa/média fidelidade** 
 A versão inicial do protótipo com o cadastro de Distribuidores encontra-se [nesse arquivo](/vem-que-tem/vem_que_tem-v1.py).  
 Já na segunda versão, é um melhoramento da primeira, agora com a parte dos produtos, mas cadastrando apenas os produtos por nome. A segunda versão do protótipo desenvolvido encontra-se [nesse arquivo](/vem-que-tem/vem_que_tem-v2.py). 
 
-**obs: para é possível que de erro de permissão pois o arquivo realiza alterações no arquivo, então rode usando o comando sudo:**:
+**obs: para é possível que de erro de permissão pois o arquivo realiza alterações no arquivo, então rode usando o comando:**:
 ```shell
 $ sudo python3 vem_que_tem-v1.py
 $ sudo python3 vem_que_tem-v2.py
@@ -22,7 +22,7 @@ A ideia do tipo de prototipagem utilizar é o de **evolutivo incremental**, onde
 
 O refinamento do protótipo da questão anterior encontra-se [nesse arquivo](/vem-que-tem/vem_que_tem-v3.py). Aqui, é feito realmente o cadastro dos produtos, podendo adicionar, remover e alterar com as opções de consignado e distribuidor relacionadas com o produto.
 
-**obs: para é possível que de erro de permissão pois o arquivo realiza alterações no arquivo, então rode usando o comando sudo:**:
+**obs: para é possível que de erro de permissão pois o arquivo realiza alterações no arquivo, então rode usando o comando:**:
 ```shell
 $ sudo python3 vem_que_tem-v3.py
 ```
